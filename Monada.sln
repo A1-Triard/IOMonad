@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonadaExample", "Example\MonadaExample.csproj", "{B003A2E7-D877-45A4-9ADA-9D8D328C87B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonadaTest", "Test\MonadaTest.csproj", "{B279D1B6-2BC9-40C5-912B-6821FEB9B44C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monada", "Monada.csproj", "{1ABC490A-E541-42CA-BE65-A03D0CC17BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B279D1B6-2BC9-40C5-912B-6821FEB9B44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B279D1B6-2BC9-40C5-912B-6821FEB9B44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B279D1B6-2BC9-40C5-912B-6821FEB9B44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B279D1B6-2BC9-40C5-912B-6821FEB9B44C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABC490A-E541-42CA-BE65-A03D0CC17BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABC490A-E541-42CA-BE65-A03D0CC17BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABC490A-E541-42CA-BE65-A03D0CC17BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABC490A-E541-42CA-BE65-A03D0CC17BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B003A2E7-D877-45A4-9ADA-9D8D328C87B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B003A2E7-D877-45A4-9ADA-9D8D328C87B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B003A2E7-D877-45A4-9ADA-9D8D328C87B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B003A2E7-D877-45A4-9ADA-9D8D328C87B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
